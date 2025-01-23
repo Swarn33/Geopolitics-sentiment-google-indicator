@@ -22,7 +22,7 @@ I would like to thank followings for the funding and project supervision:
 Research paper references for making Geopolitics Google Sentiment Indicator
  - [Measuring Geopolitical Risk](https://www.aeaweb.org/articles?id=10.1257/aer.20191823)
  - [Googling Investor Sentiment around the World](https://www.jstor.org/stable/26887960)
- - [The Sum of All Fears: Investor Sentiment and Asset Prices](hhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1509162)
+ - [The Sum of All Fears: Investor Sentiment and Asset Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1509162)
  - [Text as Data](https://www.aeaweb.org/articles?id=10.1257/jel.20181020)
  - [Information about discrepancies in Google Trends](https://support.dataslayer.ai/information-about-discrepancies-in-google-trends)
 
